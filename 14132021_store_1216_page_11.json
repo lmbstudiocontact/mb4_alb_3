@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Movie_Animation",
+    "link_thumb": "https://live.staticflickr.com/65535/51697996739_cf81176c93_o.gif",
+    "id_album": "772010229",
+    "total": 12,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_772010229_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Ghibli Anime_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51677482792_cba3803686_o.gif",
+    "id_album": "-749595044",
+    "total": 17,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-749595044_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Music_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51682474909_bcd8d90412_o.gif",
+    "id_album": "908522977",
+    "total": 24,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_908522977_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Ragnarok_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51687003582_a48aed3b31_o.gif",
+    "id_album": "1601322213",
+    "total": 15,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1601322213_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Mickey Cartoon_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51681540748_b2f65553ff_o.gif",
+    "id_album": "1680949824",
+    "total": 22,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1680949824_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Music_L6",
+    "link_thumb": "https://live.staticflickr.com/65535/51681923001_8a1defa9a2_o.gif",
+    "id_album": "908522980",
+    "total": 24,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_908522980_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Spider Man Cartoon_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51690060325_b21b442fe0_o.gif",
+    "id_album": "1735002392",
+    "total": 16,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1735002392_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Buddhist Terms_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51673514478_6ae22d5514_o.gif",
+    "id_album": "518853929",
+    "total": 13,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_518853929_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Buddhist Terms_L10",
+    "link_thumb": "https://live.staticflickr.com/65535/51673921139_8daf956665_o.gif",
+    "id_album": "-1095397368",
+    "total": 13,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-1095397368_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Dragon Ball Anime_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51676662574_a37d69132b_o.gif",
+    "id_album": "1464725223",
+    "total": 60,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1464725223_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1464725223_index_1.json"
+      }
+    ]
+  }
+]

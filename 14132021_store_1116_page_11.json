@@ -1,28 +1,59 @@
 [
   {
-    "title": "One Piece Anime_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51684693208_83686f94de_o.gif",
-    "id_album": "1351456606",
-    "total": 135,
-    "size_max_detail_page": 3,
+    "title": "Mickey Cartoon_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51787644684_ec9745b499_o.gif",
+    "id_album": "1680949826",
+    "total": 22,
+    "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1351456606_index_0.json"
-      },
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1680949826_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Detective Conan_L7",
+    "link_thumb": "https://live.staticflickr.com/65535/51786941356_8390ede63a_o.gif",
+    "id_album": "-1285383386",
+    "total": 16,
+    "size_max_detail_page": 1,
+    "list_detail": [
       {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1351456606_index_1.json"
-      },
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-1285383386_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Madagascar Cartoon_L1",
+    "link_thumb": "https://live.staticflickr.com/65535/51787268293_4a77377cb3_o.gif",
+    "id_album": "-2014542390",
+    "total": 9,
+    "size_max_detail_page": 1,
+    "list_detail": [
       {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1351456606_index_2.json"
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-2014542390_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Doraemon Anime_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51787203218_15df541a00_o.gif",
+    "id_album": "405661395",
+    "total": 16,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_405661395_index_0.json"
       }
     ]
   },
   {
     "title": "Panda Art_L8",
-    "link_thumb": "https://live.staticflickr.com/65535/51686685495_320c9a7d8f_o.gif",
+    "link_thumb": "https://live.staticflickr.com/65535/51787085816_2d48020bbd_o.gif",
     "id_album": "586574350",
     "total": 5,
     "size_max_detail_page": 1,
@@ -34,114 +65,71 @@
     ]
   },
   {
-    "title": "Star War_L6",
-    "link_thumb": "https://live.staticflickr.com/65535/51690009409_71786969cc_o.gif",
-    "id_album": "-1637191761",
-    "total": 2,
+    "title": "Wolf_L8",
+    "link_thumb": "https://live.staticflickr.com/65535/51787128271_f30c3c2568_o.gif",
+    "id_album": "-1110849959",
+    "total": 5,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-1637191761_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-1110849959_index_0.json"
       }
     ]
   },
   {
-    "title": "Dragon Ball Anime_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51676724310_0cfd5e535f_o.gif",
-    "id_album": "1464725221",
-    "total": 60,
+    "title": "Panda Art_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51787708489_ac4218d479_o.gif",
+    "id_album": "586574347",
+    "total": 5,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_586574347_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Shiv_L10",
+    "link_thumb": "https://live.staticflickr.com/65535/51787135151_900ec95e30_o.gif",
+    "id_album": "-446586866",
+    "total": 32,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-446586866_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Sonic Cartoon",
+    "link_thumb": "https://live.staticflickr.com/65535/51786900371_5c4d603740_o.gif",
+    "id_album": "-1379465926",
+    "total": 3,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-1379465926_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Cute Art_L9",
+    "link_thumb": "https://live.staticflickr.com/65535/51787190043_4bded0f364_o.gif",
+    "id_album": "-629963482",
+    "total": 76,
     "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1464725221_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-629963482_index_0.json"
       },
       {
         "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1464725221_index_1.json"
-      }
-    ]
-  },
-  {
-    "title": "Naruto Anime_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51683045819_558ef3096c_o.gif",
-    "id_album": "1894397987",
-    "total": 37,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1894397987_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Doraemon Anime_L10",
-    "link_thumb": "https://live.staticflickr.com/65535/51676432880_c51e903cf9_o.gif",
-    "id_album": "-309398719",
-    "total": 16,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-309398719_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Chibi",
-    "link_thumb": "https://live.staticflickr.com/65535/51670463267_08f30a9099_o.gif",
-    "id_album": "65078219",
-    "total": 75,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_65078219_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_65078219_index_1.json"
-      }
-    ]
-  },
-  {
-    "title": "Halloween Ghost Witch_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51679290080_6f2782568b_o.gif",
-    "id_album": "1746571233",
-    "total": 49,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1746571233_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "One Punch Man Anime_L8",
-    "link_thumb": "https://live.staticflickr.com/65535/51686440905_052bebc63b_o.gif",
-    "id_album": "-1626855607",
-    "total": 2,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-1626855607_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Detective Conan_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51675113512_ac4ef9ced0_o.gif",
-    "id_album": "-1285383390",
-    "total": 16,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-1285383390_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-629963482_index_1.json"
       }
     ]
   }
